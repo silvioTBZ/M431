@@ -14,3 +14,5 @@ Also, fangen wir mal mit den ersten schritten nüchtern an bevor es an das einge
 - Realisieren
 - Kontrollieren
 - Auswerten
+
+<img src ="/Bilder/iperka.jpg">
