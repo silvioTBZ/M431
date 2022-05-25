@@ -15,10 +15,5 @@ Also, fangen wir mal mit den ersten schritten nüchtern an bevor es an das einge
 - Kontrollieren
 - Auswerten
 
-<img
-src=“C:\Users\GeorgesPantea\Documents\TBZ\Bilder\iperka.jpg”
-raw=true
-alt=“Subject Pronouns”
-style=“margin-right: 10px;”
-/>
+![](bilder/iperka.jpg)
 
