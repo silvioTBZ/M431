@@ -22,5 +22,5 @@ Es ist eher eine art Anleitung, wie man Projekte angehen soll. Also lass uns dir
 ## Alle Kapitel:
 
 
-- [a relative link](https://github.com/silvioTBZ/M431/files/8770598/Informieren-P-E-R-K-A.md)
+- ["I", wie informieren](https://github.com/silvioTBZ/M431/blob/main/Informieren-P-E-R-K-A.md)
 
