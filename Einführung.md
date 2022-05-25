@@ -16,7 +16,7 @@ Also, fangen wir mal mit den ersten schritten nüchtern an bevor es an das einge
 - Auswerten
 
 <img
-src=“Bilder/iperka.jpg”
+src=“C:\Users\GeorgesPantea\Documents\TBZ\Bilder\iperka.jpg”
 raw=true
 alt=“Subject Pronouns”
 style=“margin-right: 10px;”
