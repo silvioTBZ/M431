@@ -15,4 +15,5 @@ Also, fangen wir mal mit den ersten schritten nüchtern an bevor es an das einge
 - Kontrollieren
 - Auswerten
 
-<img src ="C:\Users\GeorgesPantea\OneDrive - exxo it-services AG\TBZ\Module\1. Lehrjahr\Modul 431\Bilder\iperka.jpg" alt="Employee data">
+![alt text](http://url/to/iperka.jpg)
+
