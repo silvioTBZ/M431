@@ -10,4 +10,4 @@ Es funktioniert folgendermassen: Man hat kontakt mit einem bestimmten Lieferante
 Das praktische daran ist, dass man A: Sleber kein Lager haben muss und B: Man muss nicht selber die Proukte in einer gewissen Anzahl kaufen. Das ist in der Regel ein automatisiertes System. Wenn man es richtig anstellt kann man somit auch passiv Geld verdienen und sich ein lukratives Geschäft bilden.
 
 ## E-Commerce
-E-Commerce wird auch als elektronischer Handel bezeichnet. Wie der Name deuten lässt ist es nur Kauf- und Verkaufvorgänge, welche online stattfinden. Somit wäre E-Commerce erklärt.
+E-Commerce wird auch als elektronischer Handel bezeichnet. Wie der Name deuten lässt ist es nur Kauf- und Verkaufvorgänge, welche online stattfinden. Es gibt verschiedene Geschätsformen, welche unter dieser Rubrik fallen. Wie zum Beispiel Affiliate Marketing oder Amazon-FBA. Allerdings habe ich mich für dieses Modul für Dropshipping entschieden.
