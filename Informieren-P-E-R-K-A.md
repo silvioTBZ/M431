@@ -1,4 +1,4 @@
-# "I", wie Informieren
+# Kapitel: Informieren
 ## Was ist Dropshipping?
 Fangen wir  gasnz von vorne an.
 - Was ist Dropshipping?
