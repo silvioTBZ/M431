@@ -75,7 +75,7 @@ Wenn man jetzt ein paar Seiten hinzugefügt hat, ist es damit an sich nicht erle
 Wenn man eine Webseite hat, benötigt man eine Domain um diese aufzurufen. Bei diesem Punkt kann man eine Domain kaufen oder mieten und in seinem Shop einbinden. Shopify bietet auch selber Domains an zum kaufen oder mieten. Es ist zwar einfacher, aber kostenintensiever. Es ist auch möglich die vorgenerierte Domain von Shopify selber zu nutzen. Allerdings ist der Domainname der Second-Level-Domain "Shopify" und das wirkt unseriös.
 
 ---
-### "Vetriebskanäle einrichte"
+### "Vetriebskanäle einrichten"
 
 Der letzte Punkt ist der einfachste aber zugleich der schwierigste Teil. Die Einrichtung von Werbung und Marketing. Damit tut man auf anderen Platformen, wie Youtube oder Google, Werbung shalten. Die Herausforderung dabei liegt bei der Werbung an sich. Man muss gutes Marketing betreiben um Profit zu machen. Wenn Niemand von der Existenz des Shops kennt, wie soll man dort einkaufen?
 
