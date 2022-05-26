@@ -27,7 +27,7 @@ Es ist eine E-Commerce Platform auf dem man Onlineshops aufbauen und digitalen H
 
 Man kann auch vorgenerierte Shopdesign kostenfrei aussuchen. Für Geld hat man mehr Auswahl. Es besteht jedoch die Möglichkeit sleber den Webshop zu designen.
 #### Wix
-Wix ist eine Platform um Webseiten zu erstellen. Bei der Form von der Erstellung kann man es sich wie ein Baukasten vorstellen. Der Zweck ist es, so einfach wie möglich eine Website zu erstellen. Dazu kann man auch kostenpflichtige Abos abschliessen. Mit den Abos hat man mehr Möglichkeiten die Seite zu Designen. Man hat mehr Tools zur Verfügung. Dabei hat man mit der kostenlose Version eine gross Auswahl. 
+Wix ist eine Platform um Webseiten zu erstellen. Bei der Form von der Erstellung kann man es sich wie ein Baukasten vorstellen. Der Zweck ist es, so einfach wie möglich eine Website zu erstellen. Dazu kann man auch kostenpflichtige Abos abschliessen. Mit den Abos hat man mehr Möglichkeiten die Seite zu Designen. Man hat mehr Tools zur Verfügung. Dabei hat man mit der kostenlose Version bereits eine grosse Auswahl. 
 
 Die Dropshipping-Funktion bei Wix wurde neu hinzugefügt. Sie ist noch nicht so ausgereift wie bei Shopify. Momentan kann man bei Wix nur Print-On-Demand shops aufbauen. Print-On-Demand ist eine Form von Shop, auf denen man T-shrirts oder andere Produkte die man bedruckt, verkaufen kann. 
 
