@@ -51,6 +51,7 @@ Sobald man sich ein Kontno eingerichtet hat, kommt man auf die Homeseite des Das
 Bei dem ersten Punkt geht es um die Produkte. Der Treibstoff des Shops. Da kann man durch die integrierte Shopify-Funktion Produkte auf anderen Webshops des Händlers auf seinem Shop verknüpfung. So funktioniert Dropshipping im technischen Bereich. Wenn ein Kunde jetzt über den Shopify-Shop ein Produkt bestellt, dann wird die bestellung über die Verknüpfung auf der anderen Seite -bei dem Händler- bestellt und ausgeliefert.
 
 Für Beginner sind AliExpress am beliebtesten, da die Einkaufkosten am geriengsten sind und man somit seinen Profit pro verkauf erhöhern kann.
+
 ---
 - g
 
