@@ -38,7 +38,8 @@ Daher finde ich dass sich Shopify mehr eignet, da sie sich seit beginn darauf sp
 ![shopify-logo-white-500x143](https://user-images.githubusercontent.com/90186208/170472734-3c17ce17-7a3c-41ea-a7c4-1a0c81986cb4.png)
 Sobald man sich ein Kontno eingerichtet hat, kommt man auf die Homeseite des Dashboards. Hier sind die Hauptpunkte aufgelistet, welche man für einen funktionierenden Shop braucht. Das erleichtert die organisation.
 
-![Screenshot 2022-05-26 130105](https://user-images.githubusercontent.com/90186208/170475641-393f54eb-2915-4cdd-97fa-f473e70e828d.png)
+
+![screen1](https://user-images.githubusercontent.com/90186208/170476150-e0d2cbc9-91d0-41b2-b086-2f0f1e64810e.png)
 
 
 
