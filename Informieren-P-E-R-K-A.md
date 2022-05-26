@@ -35,7 +35,8 @@ Daher finde ich dass sich Shopify mehr eignet, da sie sich seit beginn darauf sp
 
 ## Shopify
 
-![shopify-logo-white-500x143](https://user-images.githubusercontent.com/90186208/170472627-d75985cc-1fbe-4fe3-a10d-379aaf6bc2c4.png)
 
+
+![shopify-logo-white-500x143](https://user-images.githubusercontent.com/90186208/170472734-3c17ce17-7a3c-41ea-a7c4-1a0c81986cb4.png)
 
 
