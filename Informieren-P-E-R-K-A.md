@@ -70,6 +70,12 @@ Dieser Punkt ist nur relevant, wenn man ein vorgefertigte Shopdesign wählt. Obw
 Wenn man jetzt ein paar Seiten hinzugefügt hat, ist es damit an sich nicht erledigt. Wenn man auf eine Webseite geht, kann man sich üblicherweise einfach durchnavigieren. Wenn man auf "Kontakt" drückt auf der Webseite, kommt man auf der Seite mit den Kontakten. Wenn man auf "Produkte" drückt, kommt man auf die Seite mit den Produkten. Im Grunde genommen ist das alles bereits mit dem automatisch mit den Vorgefertigten Designs erledigt. Allerdings muss man bei komplexen oder spezifischen Verzeichnisse das mit der "Navigation" erledigen.
 
 ---
+### "jetzt Domain hinzufügen"
+
+Wenn man eine Webseite hat, benötigt man eine Domain um diese aufzurufen. Bei diesem Punkt kann man eine Domain kaufen oder mieten und in seinem Shop einbinden. Shopify bietet auch selber Domains an zum kaufen oder mieten. Es ist zwar einfacher, aber kostenintensiever. Es ist auch möglich die vorgenerierte Domain von Shopify selber zu nutzen. Allerdings ist der Domainname der Second-Level-Domain "Shopify" und das wirkt unseriös.
+
+---
+
 Man kann es als eine Art Liste sehen. Diese Liste kann man in ruhe abarbeiten und das Resultat ist ein vollwertiger Onlineshop. Ein Punkt, welcher optional ist und nicht auf der "To-Do Liste" der Startseite steht ist zum Beispiel die Rubrik Apps. Als Hinweis, die Apps habe ich in der vorherigen Erklärung als "Tools" erläutert. 
 
 ### Tools/Apps
