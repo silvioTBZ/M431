@@ -27,4 +27,8 @@ Es ist eine E-Commerce Platform auf dem man Onlineshops aufbauen und digitalen H
 
 Man kann auch vorgenerierte Shopdesign kostenfrei aussuchen. Für Geld hat man mehr Auswahl. Es besteht jedoch die Möglichkeit sleber den Webshop zu designen.
 #### Wix
+Wix ist eine Platform um websiten zu erstellen. Bei der Form von der Erstellung kann man es sich wie ein Baukasten vorstellen. Der Zweck ist es, einfach wie möglich eine Website zu erstellen. Da kann man auch Abos abschliessen. Mit den Abos hat man mehr Möglichkeiten die Seite zu Designen. Man hat mehr Tools zur Verfügung. Dabei hat man mit der kostenlose Version eine gross Auswahl. 
 
+Die Dropshipping-Funktion bei Wix wurde neu hinzugefügt. Sie ist noch nicht so ausgereift wie bei Shopify. Momentan kann man bei Wix nur Print-On-Demand shops aufbauen. Print-On-Demand ist eine Form von Shop, auf denen man T-shrirts oder andere Produkte die man bedruckt, verkaufen kann. 
+
+Daher finde ich dass sich Shopify mehr eignet, da sie sich seit beginn darauf spezalisiert haben. Sie habe viel mehr Möglichkeiten und Funktionen. Bei Shopify braucht man mehr Startkapital aber bei Wix benötigt es mehr Administrativer Aufwand. Dazu kommt noch, dass die Möglichkeiten bei Wix begrentzt sind.
