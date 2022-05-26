@@ -55,7 +55,12 @@ Für Beginner sind AliExpress am beliebtesten, da die Einkaufkosten am geriengst
 ---
 ### "Theme anpassen"
 
+Bei diesem Punkt kann man sich seine Webseite aussuchen. Es gibt bestimmte Themen von Webseiten-Designs, bei denen man entscheiden kann. Die Anzahl von kostenfreien, vorgefertigten Designs sind begrentzt. Unter den Zahlungspflichtigen Designs gibt es enorm mehr Auswahl. Allerdings kann man auch selber mit Html, CSS usw. eine Seite erstellen.
+
+Hiermit ist man relativ flexibel und bei möglichkeit kann man seine Seite komplett selber erstellen.
+
 ---
+### ""
 
 Man kann es als eine Art Liste sehen. Diese Liste kann man in ruhe abarbeiten und das Resultat ist ein vollwertiger Onlineshop. Ein Punkt, welcher optional ist und nicht auf der "To-Do Liste" der Startseite steht ist zum Beispiel die Rubrik Apps. Als Hinweis, die Apps habe ich in der vorherigen Erklärung als "Tools" erläutert. 
 
