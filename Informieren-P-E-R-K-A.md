@@ -62,7 +62,7 @@ Hiermit ist man relativ flexibel und bei möglichkeit kann man seine Seite kompl
 ---
 ### "Seite hinzufügen"
 
-Dieser Punkt ist nur relevant, wenn man eine vorgefertigte Shopdesign wählt. Obwohl man hier etwas vorgefärtiges wählt, hat man immernoch die Möglichkeit die Seite anzupassen. Das gilt auch für weiteren Seiten an Shop. Zum Beispiel eine Weitere Titelseite oder eine separate Seite für das Impressum. Da kann man den Shop anpassen und weitere Seiten hinzufügen.
+Dieser Punkt ist nur relevant, wenn man eine vorgefertigte Shopdesign wählt. Obwohl man hier etwas vorgefärtigtes wählt, hat man immernoch die Möglichkeit die Seite anzupassen. Das gilt auch für weiteren Seiten an Shop. Zum Beispiel eine Weitere Titelseite oder eine separate Seite für das Impressum. Da kann man den Shop anpassen und weitere Seiten hinzufügen.
 
 ---
 ### "Navigation"
