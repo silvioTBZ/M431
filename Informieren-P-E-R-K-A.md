@@ -26,5 +26,5 @@ Was sind das genau für Platformen? Ich werde den Zweck separat aufschreiben.
 Es ist eine E-Commerce Platform auf dem man Onlineshops aufbauen und digitalen Handel mit vereinfachter Logistik betreiben kann. Dazu gibt es noch viele Features mit dem man den Vorgang automatisieren kann. Alleine um den Marketplace zu hosten kostet es min 30CHF in Monat. Das wird in Paketabos abgeschlossen. Man zahlt nicht nur für das hosten, sondern auch die Möglichkeit externe Mitarbeiter einzustellen. Es gibt eine begrentzte Anzahl worauf externe Personen darauf beschränkt bis bevollmächtig Zugriff haben können. Je nach MA Kapazität oder Features können die Monatsabo-Pakete teurer sein.
 
 Man kann auch vorgenerierte Shopdesign kostenfrei aussuchen. Für Geld hat man mehr Auswahl. Es besteht jedoch die Möglichkeit sleber den Webshop zu designen.
-#### Shopify
+#### Wix
 
