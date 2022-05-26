@@ -15,10 +15,12 @@ Für das hosten der Seite wie die Tools um das überhaupt automatisieren zu kön
 E-Commerce wird auch als elektronischer Handel bezeichnet. Wie der Name deuten lässt ist es nur Kauf- und Verkaufvorgänge, welche online stattfinden. Es gibt verschiedene Geschätsformen, welche unter dieser Rubrik fallen. Wie zum Beispiel Affiliate Marketing oder Amazon-FBA. Allerdings habe ich mich für dieses Modul für Dropshipping entschieden.
 
 ## Dropshipping Platformen; Wix vs. Shopify
-Als erstes wähle ich zwei Plattformen aus, um meinen Onlinehsop aufzubauen. Dafür habe ich mir zwei der bekanntesten Plattformen ausgesucht.
+Als erstes wähle ich zwei Plattformen aus, um meinen Onlinehsop aufzubauen. Dafür habe ich mir zwei der bekanntesten Plattformen ausgesucht:
 
 - Wix
 - Shopify
 
+Was sind das genau für Platformen? Ich werde den Zweck separat aufschreiben.
 
+### Shopify
 
