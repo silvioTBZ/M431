@@ -98,3 +98,8 @@ Es gibt noch Einzelheiten, welche man eingestellt haben soll. Das mindeste was m
 ## Rechtliches
 
 Da Dropshipping nicht nur eine technische Spielerei ist, muss man viele rechtliche Aspekte beachten. Es ist schliesslich eine Geschäftsform, indem manm Geld verdient und der Staat möchte, dass man alles sorgfältig macht und ihm etwas abgibt. 
+
+Ein Punkt is die IOSS-OSS Nummer. Seit anfang Jahr benötigt man als Händler einer dieser zwei Nummer. Die kann man nicht selber beantragen. Das muss man über EU-intermediary. Dabei muss man auch wählen in welchen Land man versenden möchte, da jedes Land eine andere Nummer hat.
+
+![Screenshot 2022-05-26 193614](https://user-images.githubusercontent.com/90186208/170544370-51d72d77-f6bc-4ad1-bda6-644688f6fa02.png)
+
