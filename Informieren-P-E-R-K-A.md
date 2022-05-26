@@ -60,7 +60,11 @@ Bei diesem Punkt kann man sich seine Webseite aussuchen. Es gibt bestimmte Theme
 Hiermit ist man relativ flexibel und bei möglichkeit kann man seine Seite komplett selber erstellen.
 
 ---
-### ""
+### "Seite hinzufügen"
+
+Dieser Punkt ist nur relevant, wenn man ein vorgefertigte Shopdesign wählt. Obwohl man hier etwas vorgefärtiges wählt, hat man immernoch die Möglichkeit die Seite anzupassen. Das gilt auch für weiteren Seiten an Shop. Zum Beispiel eine Weitere Titelseite oder eine separate Seite für das Impressum. Da kann man den Shop anpassen und weitere Seiten hinzufügen.
+
+---
 
 Man kann es als eine Art Liste sehen. Diese Liste kann man in ruhe abarbeiten und das Resultat ist ein vollwertiger Onlineshop. Ein Punkt, welcher optional ist und nicht auf der "To-Do Liste" der Startseite steht ist zum Beispiel die Rubrik Apps. Als Hinweis, die Apps habe ich in der vorherigen Erklärung als "Tools" erläutert. 
 
