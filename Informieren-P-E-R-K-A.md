@@ -95,3 +95,5 @@ Man kann viele Apps in seinem Shop implementieren. Es gibt viele Apps für versc
 
 Es gibt noch Einzelheiten, welche man eingestellt haben soll. Das mindeste was man eingestellt haben soll, ist die Zahlung. Dafür muss man einen Paypal-Konto einrichten und mit Shopify verknüpfung. Danach ist es optional ob man weiter Zahlungsmethoden hinzufügt. Der Rest ist so was wie Rabatte, Statistiken usw. Die sind eher optional.
 
+## Rechtliches
+
