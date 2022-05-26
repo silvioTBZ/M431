@@ -67,7 +67,7 @@ Dieser Punkt ist nur relevant, wenn man eine vorgefertigte Shopdesign wählt. Ob
 ---
 ### "Navigation"
 
-Wenn man jetzt ein paar Seiten hinzugefügt hat, ist es damit an sich nicht erledigt. Wenn man auf eine Webseite geht, kann man sich üblicherweise einfach durchnavigieren. Wenn man auf "Kontakt" drückt auf der Webseite, kommt man auf der Seite mit den Kontakten. Wenn man auf "Produkte" drückt, kommt man auf die Seite mit den Produkten. Im Grunde genommen ist das alles bereits mit dem automatisch mit den Vorgefertigten Designs erledigt. Allerdings muss man bei komplexen oder spezifischen Verzeichnisse das mit der "Navigation" erledigen.
+Wenn man jetzt ein paar Seiten hinzugefügt hat, ist es damit an sich nicht erledigt. Wenn man auf eine Webseite geht, kann man sich üblicherweise einfach durchnavigieren. Wenn man auf "Kontakt" drückt auf der Webseite, kommt man auf der Seite mit den Kontakten. Wenn man auf "Produkte" drückt, kommt man auf die Seite mit den Produkten. Im Grunde genommen ist das alles bereits automatisch mit den Vorgefertigten Designs erledigt. Allerdings muss man bei komplexen oder spezifischen Verzeichnisse das mit der "Navigation" erledigen.
 
 ---
 ### "jetzt Domain hinzufügen"
