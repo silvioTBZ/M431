@@ -41,5 +41,8 @@ Sobald man sich ein Kontno eingerichtet hat, kommt man auf die Homeseite des Das
 
 ![screen1](https://user-images.githubusercontent.com/90186208/170476150-e0d2cbc9-91d0-41b2-b086-2f0f1e64810e.png)
 
+Man kann es als eine Art Liste sehen. Diese Liste kann man in ruhe abarbeiten und das Resultat ist ein vollwertiger onlineshop
+
+![screen2](https://user-images.githubusercontent.com/90186208/170476985-1af64679-2a84-4003-a0c1-253102838ff9.png)
 
 
