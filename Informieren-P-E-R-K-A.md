@@ -53,7 +53,9 @@ Bei dem ersten Punkt geht es um die Produkte. Der Treibstoff des Shops. Da kann 
 Für Beginner sind AliExpress am beliebtesten, da die Einkaufkosten am geriengsten sind und man somit seinen Profit pro verkauf erhöhern kann.
 
 ---
-- g
+### "Theme anpassen"
+
+---
 
 Man kann es als eine Art Liste sehen. Diese Liste kann man in ruhe abarbeiten und das Resultat ist ein vollwertiger Onlineshop. Ein Punkt, welcher optional ist und nicht auf der "To-Do Liste" der Startseite steht ist zum Beispiel die Rubrik Apps. Als Hinweis, die Apps habe ich in der vorherigen Erklärung als "Tools" erläutert. 
 
