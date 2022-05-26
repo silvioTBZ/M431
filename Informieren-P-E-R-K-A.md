@@ -31,7 +31,7 @@ Wix ist eine Platform um Webseiten zu erstellen. Bei der Form von der Erstellung
 
 Die Dropshipping-Funktion bei Wix wurde neu hinzugefügt. Sie ist noch nicht so ausgereift wie bei Shopify. Momentan kann man bei Wix nur Print-On-Demand shops aufbauen. Print-On-Demand ist eine Form von Shop, auf denen man T-shrirts oder andere Produkte die man bedruckt, verkaufen kann. 
 
-Daher finde ich dass sich Shopify mehr eignet, da sie sich seit beginn darauf spezalisiert haben. Sie habe viel mehr Möglichkeiten und Funktionen. Bei Shopify braucht man mehr Startkapital aber bei Wix benötigt es mehr Administrativer Aufwand. Dazu kommt noch, dass die Möglichkeiten bei Wix begrentzt sind.
+Daher finde ich, dass sich Shopify mehr eignet, da sie sich seit beginn darauf spezalisiert haben. Sie habe viel mehr Möglichkeiten und Funktionen. Bei Shopify braucht man mehr Startkapital aber bei Wix benötigt es mehr Administrativer Aufwand. Dazu kommt noch, dass die Möglichkeiten bei Wix begrentzt sind.
 
 ## Shopify
 
