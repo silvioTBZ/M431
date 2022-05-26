@@ -55,7 +55,7 @@ Für Beginner ist AliExpress am beliebtesten, da die Einkaufkosten am geriengste
 ---
 ### "Theme anpassen"
 
-Bei diesem Punkt kann man sich seine Webseite aussuchen. Es gibt bestimmte Themen von Webseiten-Designs, bei denen man entscheiden kann. Die Anzahl von kostenfreien, vorgefertigten Designs sind begrentzt. Unter den Zahlungspflichtigen Designs gibt es enorm mehr Auswahl. Allerdings kann man auch selber mit Html, CSS usw. eine Seite erstellen.
+Bei diesem Punkt kann man sich seine Webseite aussuchen. Es gibt bestimmte Themen von Webseiten-Designs, bei denen man entscheiden kann. Die Anzahl von kostenfreien, vorgefertigten Designs ist begrentzt. Unter den Zahlungspflichtigen Designs gibt es enorm mehr Auswahl. Allerdings kann man auch selber mit Html, CSS usw. eine Seite erstellen.
 
 Hiermit ist man relativ flexibel und bei möglichkeit kann man seine Seite komplett selber erstellen.
 
