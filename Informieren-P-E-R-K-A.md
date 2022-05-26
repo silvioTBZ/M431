@@ -12,7 +12,7 @@ Das praktische daran ist, dass man A: Selber kein Lager haben muss und B: Man mu
 Für das hosten der Seite wie die Tools um das überhaupt automatisieren zu können, gibt es bestimmte Plattformen. Die wohl bekannteste und weit verbreiteste is Shopify. Allerdings unterstützen mal zu mal immer mehr Plattformen Dropshipping, Die Aufgabe liegt jetzt darin unter den Plattformen zu entscheiden. Ich habe mich für Wix und Shopify entschieden, um sie zu vergleichen.
 
 ## E-Commerce
-E-Commerce wird auch als elektronischer Handel bezeichnet. Wie der Name deuten lässt ist es nur Kauf- und Verkaufvorgänge, welche online stattfinden. Es gibt verschiedene Geschätsformen, welche unter dieser Rubrik fallen. Wie zum Beispiel Affiliate Marketing oder Amazon-FBA. Allerdings habe ich mich für dieses Modul für Dropshipping entschieden.
+E-Commerce wird auch als elektronischer Handel bezeichnet. Wie der Name deuten lässt, ist es nur Kauf- und Verkaufvorgänge, welche online stattfinden. Es gibt verschiedene Geschätsformen, welche unter dieser Rubrik fallen. Wie zum Beispiel Affiliate Marketing oder Amazon-FBA. Allerdings habe ich mich für dieses Modul für Dropshipping entschieden.
 
 ## Dropshipping Platformen; Wix vs. Shopify
 Als erstes wähle ich zwei Plattformen aus, um meinen Onlinehsop aufzubauen. Dafür habe ich mir zwei der bekanntesten Plattformen ausgesucht:
