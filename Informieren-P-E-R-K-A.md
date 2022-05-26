@@ -43,6 +43,8 @@ Wie sehen nun die erste Schritte mit Shopify aus?
 
 Sobald man sich ein Kontno eingerichtet hat, kommt man auf die Homeseite des Dashboards. Hier sind die Hauptpunkte aufgelistet, welche man für einen funktionierenden Shop braucht. Das erleichtert die organisation.
 
+### -Seite
+
 ![screen1](https://user-images.githubusercontent.com/90186208/170476150-e0d2cbc9-91d0-41b2-b086-2f0f1e64810e.png)
 
 Man kann es als eine Art Liste sehen. Diese Liste kann man in ruhe abarbeiten und das Resultat ist ein vollwertiger Onlineshop. Ein Punkt, welcher optional ist und nicht auf der "To-Do Liste" der Startseite steht ist zum Beispiel die Rubrik Apps. Als Hinweis, die Apps habe ich in der vorherigen Erklärung als "Tools" erläutert. 
