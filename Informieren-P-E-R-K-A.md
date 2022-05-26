@@ -77,9 +77,9 @@ Wenn man eine Webseite hat, benötigt man eine Domain um diese aufzurufen. Bei d
 ---
 ### "Vetriebskanäle einrichten"
 
-Der letzte Punkt ist der einfachste aber zugleich der schwierigste Teil. Die Einrichtung von Werbung und Marketing. Damit tut man auf anderen Platformen, wie Youtube oder Google, Werbung schalten. Die Herausforderung dabei liegt bei der Werbung an sich. Man muss gutes Marketing betreiben um Profit zu machen. Wenn Niemand von der Existenz des Shops kennt, wie soll man dort einkaufen?
+Der letzte Punkt ist der einfachste aber zugleich der schwierigste Teil. Die Einrichtung von Werbung und Marketing. Damit tut man auf anderen Platformen, wie Youtube oder Google, Werbung schalten. Die Herausforderung dabei liegt bei der Werbung an sich. Man muss gutes Marketing betreiben um Profit zu machen. Wenn Niemand von der Existenz des Shops weiss, wie soll man dort einkaufen?
 
-Deswegen sollte man versuchen sich damit am Schluss sich damit zu befassen, sobald der Shop technisch läuft. Da ist dieser Kasten auf der Startseite äusserst hilfreich.
+Deswegen sollte man versuchen sich damit am Schluss zu befassen, sobald der Shop technisch läuft. Da ist dieser Kasten auf der Startseite äusserst hilfreich.
 
 ---
 
