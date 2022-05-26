@@ -97,3 +97,4 @@ Es gibt noch Einzelheiten, welche man eingestellt haben soll. Das mindeste was m
 
 ## Rechtliches
 
+Da Dropshipping nicht nur eine technische Spielerei ist, muss man viele rechtliche Aspekte beachten. Es ist schliesslich eine Geschäftsform, indem manm Geld verdient und der Staat möchte, dass man alles sorgfältig macht und ihm etwas abgibt. 
