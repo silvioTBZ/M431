@@ -22,5 +22,5 @@ Als erstes wähle ich zwei Plattformen aus, um meinen Onlinehsop aufzubauen. Daf
 
 Was sind das genau für Platformen? Ich werde den Zweck separat aufschreiben.
 
-### Shopify
+#### Shopify
 
