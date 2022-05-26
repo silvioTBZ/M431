@@ -83,7 +83,7 @@ Deswegen sollte man versuchen sich damit am Schluss zu befassen, sobald der Shop
 
 ---
 
-Man kann es als eine Art Liste sehen. Diese Liste kann man in ruhe abarbeiten und das Resultat ist ein vollwertiger Onlineshop. Ein Punkt, welcher optional ist und nicht auf der "To-Do Liste" der Startseite steht ist zum Beispiel die Rubrik Apps. Als Hinweis, die Apps habe ich in der vorherigen Erklärung als "Tools" erläutert. 
+Man kann es als eine Art Liste sehen. Diese Liste kann man in ruhe abarbeiten und das Resultat ist ein vollwertiger Onlineshop. Ein Punkt, welcher optional ist und nicht auf der "To-Do Liste" der Startseite steht, ist zum Beispiel die Rubrik Apps. Als Hinweis, die Apps habe ich in der vorherigen Erklärung als "Tools" erläutert. 
 
 ### Tools/Apps
 
