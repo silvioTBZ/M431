@@ -87,7 +87,7 @@ Man kann es als eine Art Liste sehen. Diese Liste kann man in ruhe abarbeiten un
 
 ### Tools/Apps
 
-Man kann viele Apps in seinem Shop implementieren. Es gibt viele Apps für verschiedene Zwecke. Je nach Funktion und nach Art können diese auch Kostenpflichtig sein. Aber am Anfang sollen die Kostenfreien genügen. Die Apps kann man beispielsweise für Marketing oder für Kundenrezensionen nutzen. Die Möglichkeiten von Apps und deren Funktionen sind breitgefächert. Man muss nur wissen, welche man genau benötigt. Es kann nähmlich schnell pasieren, dass man Apps nutzt, welche gar nicht für den Shop relevant sind.
+Man kann viele Apps in seinem Shop implementieren. Es gibt viele Apps für verschiedene Zwecke. Je nach Funktion und nach Art können diese auch kostenpflichtig sein. Aber am Anfang sollen die kostenfreien genügen. Die Apps kann man Beispielsweise für Marketing oder für Kundenrezensionen nutzen. Die Möglichkeiten von Apps und deren Funktionen sind breitgefächert. Man muss nur wissen, welche man genau benötigt. Es kann nähmlich schnell pasieren, dass man Apps nutzt, welche gar nicht für den Shop relevant sind.
 
 ![screen2](https://user-images.githubusercontent.com/90186208/170476985-1af64679-2a84-4003-a0c1-253102838ff9.png)
 
