@@ -3,7 +3,7 @@
 ## Dropshipping
 Dropshipping -genannt auch Streckengeschäft- ist eine besondere Geschäftsform und fällt unter der Rubrik "eCommerce". 
 
-Es funktioniert folgendermassen: Man hat kontakt mit einem bestimmten Lieferanten. Man verkauft sein Produkt auf einen Marketplace. In meinem Fall wäre es mein zukünftiger Onlineshop. Der Kunde bestellt die Ware über meinem Onlineshop und es wird aus dem Lager des Lieferanten direkt an den Kunden versand.
+Es funktioniert folgendermassen: Man hat kontakt mit einem bestimmten Lieferanten. Man verkauft sein Produkt auf einen Marketplace. In meinem Fall wäre es mein zukünftiger Onlineshop. Der Kunde bestellt die Ware über meinem Onlineshop und es wird aus dem Lager des Lieferanten direkt an den Kunden versendet.
 
 ![Dropshipping-customer-illu](https://user-images.githubusercontent.com/90186208/170221291-92be84ea-a6ff-43ea-8a16-db3203ef0093.png)
 
