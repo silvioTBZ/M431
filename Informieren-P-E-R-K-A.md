@@ -46,6 +46,7 @@ Sobald man sich ein Kontno eingerichtet hat, kommt man auf die Homeseite des Das
 ![screen1](https://user-images.githubusercontent.com/90186208/170476150-e0d2cbc9-91d0-41b2-b086-2f0f1e64810e.png)
 
 - Produkte
+---
 
 Bei dem ersten Punkt geht es um die Produkte. Der Treibstoff des Shops. Da kann man durch die integrierte Shopify-Funktion Produkte auf anderen Webshops des Händlers auf seinem Shop verknüpfung. So funktioniert Dropshipping im technischen Bereich. Wenn ein Kunde jetzt über den Shopify-Shop ein Produkt bestellt, dann wird die bestellung über die Verknüpfung auf der anderen Seite -bei dem Händler- bestellt und ausgeliefert.
 
