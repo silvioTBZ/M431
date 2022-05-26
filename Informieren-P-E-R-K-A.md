@@ -25,7 +25,7 @@ Was sind das genau für Platformen? Ich werde den Zweck separat aufschreiben.
 ### Shopify
 Es ist eine E-Commerce Platform auf dem man Onlineshops aufbauen und digitalen Handel mit vereinfachter Logistik betreiben kann. Dazu gibt es noch viele Features mit denen man den Vorgang automatisieren kann. Alleine um den Marketplace zu hosten kostet es min 30CHF in Monat. Das wird in Paketabos abgeschlossen. Man zahlt nicht nur für das hosten, sondern auch die Möglichkeit externe Mitarbeiter einzustellen. Es gibt eine begrentzte Anzahl worauf externe Personen darauf beschränkt bis bevollmächtig Zugriff haben können. Je nach MA Kapazität oder Features können die Monatsabo-Pakete teurer sein.
 
-Man kann auch vorgenerierte Shopdesign kostenfrei aussuchen. Für Geld hat man mehr Auswahl. Es besteht jedoch die Möglichkeit sleber den Webshop zu designen.
+Man kann auch vorgenerierte Shopdesign kostenfrei aussuchen. Für Geld hat man mehr Auswahl. Es besteht jedoch die Möglichkeit, sleber den Webshop zu designen.
 ### Wix
 Wix ist eine Platform um Webseiten zu erstellen. Bei der Form von der Erstellung kann man es sich wie ein Baukasten vorstellen. Der Zweck ist es, so einfach wie möglich eine Website zu erstellen. Dazu kann man auch kostenpflichtige Abos abschliessen. Mit den Abos hat man mehr Möglichkeiten die Seite zu Designen. Man hat mehr Tools zur Verfügung. Dabei hat man mit der kostenlose Version bereits eine grosse Auswahl. 
 
