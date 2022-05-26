@@ -65,7 +65,11 @@ Hiermit ist man relativ flexibel und bei möglichkeit kann man seine Seite kompl
 Dieser Punkt ist nur relevant, wenn man ein vorgefertigte Shopdesign wählt. Obwohl man hier etwas vorgefärtiges wählt, hat man immernoch die Möglichkeit die Seite anzupassen. Das gilt auch für weiteren Seiten an Shop. Zum Beispiel eine Weitere Titelseite oder eine separate Seite für das Impressum. Da kann man den Shop anpassen und weitere Seiten hinzufügen.
 
 ---
+### "Navigation"
 
+Wenn man jetzt ein paar Seiten hinzugefügt hat, ist es damit an sich nicht erledigt. Wenn man auf eine Webseite geht, kann man sich üblicherweise einfach durchnavigieren. Wenn man auf "Kontakt" drückt auf der Webseite, kommt man auf der Seite mit den Kontakten. Wenn man auf "Produkte" drückt, kommt man auf die Seite mit den Produkten. Im Grunde genommen ist das alles bereits mit dem automatisch mit den Vorgefertigten Designs erledigt. Allerdings muss man bei komplexen oder spezifischen Verzeichnisse das mit der "Navigation" erledigen.
+
+---
 Man kann es als eine Art Liste sehen. Diese Liste kann man in ruhe abarbeiten und das Resultat ist ein vollwertiger Onlineshop. Ein Punkt, welcher optional ist und nicht auf der "To-Do Liste" der Startseite steht ist zum Beispiel die Rubrik Apps. Als Hinweis, die Apps habe ich in der vorherigen Erklärung als "Tools" erläutert. 
 
 ### Tools/Apps
