@@ -101,6 +101,5 @@ Da Dropshipping nicht nur eine technische Spielerei ist, muss man viele rechtlic
 
 Ein Punkt is die IOSS-OSS Nummer. Seit anfang Jahr benötigt man als Händler einer dieser zwei Nummer. Die kann man nicht selber beantragen. Das muss man über EU-intermediary. Dabei muss man auch wählen in welchen Land man versenden möchte, da jedes Land eine andere Nummer hat.
 
-
-![image-remini-enhanced](https://user-images.githubusercontent.com/90186208/170545187-2851e4ad-e64f-41e7-856a-4f9ed8e248a7.jpg)
+![image-remini-enhanced](https://user-images.githubusercontent.com/90186208/170545270-03a1d1fe-c8c1-4ae0-a125-c0c8b7fd4596.jpg)
 
