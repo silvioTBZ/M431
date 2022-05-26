@@ -75,6 +75,9 @@ Wenn man jetzt ein paar Seiten hinzugefügt hat, ist es damit an sich nicht erle
 Wenn man eine Webseite hat, benötigt man eine Domain um diese aufzurufen. Bei diesem Punkt kann man eine Domain kaufen oder mieten und in seinem Shop einbinden. Shopify bietet auch selber Domains an zum kaufen oder mieten. Es ist zwar einfacher, aber kostenintensiever. Es ist auch möglich die vorgenerierte Domain von Shopify selber zu nutzen. Allerdings ist der Domainname der Second-Level-Domain "Shopify" und das wirkt unseriös.
 
 ---
+### "Vetriebskanäle"
+
+---
 
 Man kann es als eine Art Liste sehen. Diese Liste kann man in ruhe abarbeiten und das Resultat ist ein vollwertiger Onlineshop. Ein Punkt, welcher optional ist und nicht auf der "To-Do Liste" der Startseite steht ist zum Beispiel die Rubrik Apps. Als Hinweis, die Apps habe ich in der vorherigen Erklärung als "Tools" erläutert. 
 
