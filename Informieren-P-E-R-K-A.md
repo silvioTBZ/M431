@@ -103,3 +103,5 @@ Ein Punkt is die IOSS-OSS Nummer. Seit anfang Jahr benötigt man als Händler ei
 
 ![image-remini-enhanced](https://user-images.githubusercontent.com/90186208/170545270-03a1d1fe-c8c1-4ae0-a125-c0c8b7fd4596.jpg)
 
+Was noch dazu kommt, ich muss ein Gewerbe dafür anmelden. Welche Rechtsform ich dabei wähle, so habe ich die Freiheit darüber zu entscheiden. Bei den ersten 100CHF Franke gewinn, soll ich langsam einen Steuerberater ans Schiff hohlen. Es mag eine etwas extremem Massnahme wirken, allerdings kann mir genau das dass Genick brechen, wenn ich zu spät oder flasch meinen Gewinn meines Gewerbe versteuere. Ich könnte auch selber meine Steuern dazu machen, allerdings wird das eine Sorge für später sein
+
