@@ -110,4 +110,4 @@ Dazu muss man noch die Mehrwertsteuer einführen. Da Es aber erst von einem Umsa
 
 ### Unterstützung
 
-Da viele zu Beginn keine Antwälte oder Unternehmer sind, tendieren sie dazu Fehler zu machen. Allerdings gibt es viele Kurse für Dropshipping. Je nach Kursleiter können die Kurse sehr umfangreich sein bis unnötig. Es ist ein bisschen wie Glücksspiel. Man kann nicht vorher sagen, ob dieser Kurs gut sein wird. Allerdings besteht auch die Möglichkeit, dass man einen Kurs findet, welcher einen enorm weiter bringt. Deswegen ein bisschen über den Kursleiter informieren und riskieren.
+Da viele zu Beginn keine Antwälte oder Unternehmer sind, tendieren sie dazu Fehler zu machen. Allerdings gibt es viele Kurse für Dropshipping. Je nach Kursleiter können die Kurse sehr umfangreich sein bis unnötig. Es ist ein bisschen wie Glücksspiel. Man kann nicht vorher sagen, ob dieser Kurs gut sein wird. Allerdings besteht auch die Möglichkeit, dass man einen Kurs findet, welcher einen enorm weiter bringt. Deswegen ist empfohlen sich ein bisschen über den Kursleiter zui informieren und es riskieren.
