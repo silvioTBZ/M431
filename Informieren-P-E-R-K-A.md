@@ -106,4 +106,8 @@ Ein Punkt is die IOSS-OSS Nummer. Seit anfang Jahr benötigt man als Händler ei
 Was noch dazu kommt, ich muss ein Gewerbe dafür anmelden. Welche Rechtsform ich dabei wähle, so habe ich die Freiheit darüber zu entscheiden. Bei den ersten 100CHF Franke gewinn, soll ich langsam einen Steuerberater ans Schiff hohlen. Es mag eine etwas extremem Massnahme wirken, allerdings kann mir genau das dass Genick brechen, wenn ich zu spät oder flasch meinen Gewinn meines Gewerbe versteuere. Ich könnte auch selber meine Steuern dazu machen, allerdings wird das eine Sorge für später sein
 
 
-Dazu muss man boch die Mehrwertsteuer einführen. Da Es aber es von einem Umsatz von 100'000CHF erst gültig wird, ist es für uns nicht weiter relevant.
+Dazu muss man noch die Mehrwertsteuer einführen. Da Es aber erst von einem Umsatz von 100'000CHF erst gültig wird, ist es für uns nicht weiter relevant. Man braucht für den Shop AGB's und ein Impressum. Die kann man entwerder selber oder sich von einem Anlwalt/Treuhänder schreiben lassen.
+
+### Unterstützung
+
+Da viele zu Beginn keine Antwälte oder Unternehmer sind, tendieren sie dazu Fehler zu machen. Alerdings gibt es viele Kurse für Dropshipping. Je nach Kursleiter können die Kurse sehr Umfangreich sein bis unnötig. Es ist ein bisschen wie Glücksspiel. Man kann nicht vorher sagen, ob dieser Kurs gut sein wird. Allerdings besteht auch die Möglichkeit, dass man einen Kurs findet, welcher einen enorm weiter bringt. Deswegen ein bisschen über den Kursleiter informieren und riskieren.
