@@ -1,6 +1,6 @@
 # Kapitel: Planen
 
-##Zusammenfassen
+## Zusammenfassen
 
 Im vorherigen Kapitel habe iwr uns genügend über das Dropshipping informiert. Der nächste Schritt zur verwirklichung des Shops ist die Planung. Nur wenn mna das Wissen besitzt, heisst das noch lange nicht, dass man einfach so beginen kann.
 
