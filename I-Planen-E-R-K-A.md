@@ -43,3 +43,22 @@ CE bedeutet so viel wie; vom Händler getestet. Ich möchte eine gewisse Qualit�
 Jetzt habe ich erfasst mindestens verlangt wird. Gehen wir also durch, wie ich das handhabe. Dazu habe ich ebefalls Notizen auf miene Whiteboard gemacht.
 
 ![WhatsApp Image 2022-05-29 at 18 44 28](https://user-images.githubusercontent.com/90186208/170884446-1ae5577b-4822-4623-9d32-6590ed5d98d4.png)
+
+# Schritt 1: der Shop
+- Als aller erstes brauche ich einen Shopnamen und ein ungefähres Konzept, was ich verkaufen möchte. 
+- Danach brauche ich eine Domain, wie vorhin erläutert. 
+- Als nächtstes kommt die Website des Shops, aud dem der Kunde einkauft.
+- Dann müssen die Zahlungsarte eingerichtet werden für die Bestellungen
+- Nachdem kommt das Produkt, was ich verkaufen möchte.
+- Als nächster Schritt suhce ich den Supplier (Händler), welcher das Produkt ausliefert
+
+# Schritt 2: spezifische Fähigkeiten
+
+- Kurs für Dropshipping anmelden. Ich habe zwar die Basics gelernt, allerdings machen die mich noch lamge nicht zum guten Verkäufer. Deswegen absolviere ich eine kostenpflichtigen Kurs um meine Fähigkeiten und Wissen zu ergänzen.
+
+# Schritt 3: Gewerbe anmelden
+
+- Ich werde dafür ein Gewerben anmelden, da ich fast gar nicht drum herum komme
+- Ich brauche AGB's und ein Impressum. Ich bin rechtlich dazu verpflichtet diese bereit zu haben, wenn ich mit einem Onlinehsop Geld verdiene. Dazu wirke ich auch seriöser. Dass mache ich indem ich Formular mein Gewerbe im Gewerberegister eintrage.
+- Steuerberater für die versteuerung meines Umsatzes. Dieser Punkt iwrde der letzter sein, da ich das erst ab den ersten 100CHF Gewinn benötige
+
