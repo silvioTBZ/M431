@@ -44,7 +44,7 @@ Jetzt habe ich erfasst mindestens verlangt wird. Gehen wir also durch, wie ich d
 
 ![WhatsApp Image 2022-05-29 at 18 44 28](https://user-images.githubusercontent.com/90186208/170884446-1ae5577b-4822-4623-9d32-6590ed5d98d4.png)
 
-# Schritt 1: der Shop
+## Schritt 1: der Shop
 - Als aller erstes brauche ich einen Shopnamen und ein ungefähres Konzept, was ich verkaufen möchte. 
 - Danach brauche ich eine Domain, wie vorhin erläutert. 
 - Als nächtstes kommt die Website des Shops, aud dem der Kunde einkauft.
@@ -52,13 +52,36 @@ Jetzt habe ich erfasst mindestens verlangt wird. Gehen wir also durch, wie ich d
 - Nachdem kommt das Produkt, was ich verkaufen möchte.
 - Als nächster Schritt suhce ich den Supplier (Händler), welcher das Produkt ausliefert
 
-# Schritt 2: spezifische Fähigkeiten
+## Schritt 2: spezifische Fähigkeiten
 
 - Kurs für Dropshipping anmelden. Ich habe zwar die Basics gelernt, allerdings machen die mich noch lamge nicht zum guten Verkäufer. Deswegen absolviere ich eine kostenpflichtigen Kurs um meine Fähigkeiten und Wissen zu ergänzen.
 
-# Schritt 3: Gewerbe anmelden
+## Schritt 3: Gewerbe anmelden
 
 - Ich werde dafür ein Gewerben anmelden, da ich fast gar nicht drum herum komme
 - Ich brauche AGB's und ein Impressum. Ich bin rechtlich dazu verpflichtet diese bereit zu haben, wenn ich mit einem Onlinehsop Geld verdiene. Dazu wirke ich auch seriöser. Dass mache ich indem ich Formular mein Gewerbe im Gewerberegister eintrage.
 - Steuerberater für die versteuerung meines Umsatzes. Dieser Punkt iwrde der letzter sein, da ich das erst ab den ersten 100CHF Gewinn benötige
 
+## Schrit 4: Marketing
+
+- Werbung für die Produkte und meine Seite machen. Da es für diese Modul eher zweitrangig ist, verschiebe ich das ebenfalls später. Ich fokussiere mich darauf, dass alles läuft. Deswegen habe ich die Makreting-Strategie hier nicht so präzisse erläutern.
+
+Somit haben wir einen 4-Schritte Plan für die realisierung unsers Shops. Ich werde den Plan noch kur zusammenfassen.
+
+## Plan zusammenfassung
+
+- Shopname finden
+- Shopkonzept finden
+- Shopseite erstellen
+- Domaine auswählen
+- Zahlungsfunktion hinzufügen
+- Produkt wählen
+- Händler aussuchen
+- Kurs für DS belegen
+- Gewerbe anmelden
+- AGB's und Impressum addieren
+- Shop launchen
+- Nach 3 ställigen Gewinn, Einnahemn versteuern
+- Marketing betreiben
+
+Wunderbar. Jetzt habe ich eine To-Do liste, welche ich abarbeiten kann. Als letzter Schritt, kommt die "Entscheidung". Dabei geht es darum, wie ich es umsetze. Für ein besseres Verständniss bringe ich folgendes Beispiel: Für den Shop brauche ich eine Domaine. Jetzt ist die Frage, wähle ich die von Shopify automatisch generierte Domain oder wähle ich eine von einem Anbieter. Dementsprechend geht es im nächsten Kapitel weiter.
