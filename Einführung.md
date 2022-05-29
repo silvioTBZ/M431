@@ -23,5 +23,5 @@ Es ist eher eine art Anleitung, wie man Projekte angehen soll. Also lass uns dir
 
 
 - ["I", wie informieren](https://github.com/silvioTBZ/M431/blob/main/Informieren-P-E-R-K-A.md)
-- [I-Planen-E-R-K-A.md](https://github.com/silvioTBZ/M431/files/8793260/I-Planen-E-R-K-A.md)
+- ["P", wie planen](https://github.com/silvioTBZ/M431/files/8793260/I-Planen-E-R-K-A.md)
 
