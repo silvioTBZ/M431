@@ -38,7 +38,7 @@ Da ich die Preise meiner Produkte selber definiere. Muss ich achten, dass die Ge
 
 CE bedeutet so viel wie; vom Händler getestet. Ich möchte eine gewisse Qualität garantieren, deshalb achte ich darauf, dass die Produkte mit dieser Zertifizierung ausgetsattet ist.
 
-### Plan zusammenstellung
+## Plan zusammenstellung
 
 Jetzt habe ich erfasst mindestens verlangt wird. Gehen wir also durch, wie ich das handhabe. Dazu habe ich ebefalls Notizen auf miene Whiteboard gemacht.
 
