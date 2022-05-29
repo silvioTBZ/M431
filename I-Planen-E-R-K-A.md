@@ -28,3 +28,12 @@ Die Produkte des Händler sollen Videos oder zumindest Bilder haben für das Mar
 - Kompatibilität
 
 Der Händler soll in die Schweiz ausliefern können. Es existieren Händler, welche nur an Länder ausliefern, welche bie der EU sind.
+
+### Produkt
+- Gewinspanne min 20%
+
+Da ich die Preise meiner Produkte selber definiere. Muss ich achten, dass die Gewinspanne mindesten 20% beträgt, da es sich sonst nicht rentiert.
+
+- CE zertifizierung
+
+CE bedeutet so viel wie; vom Händler getestet. Ich möchte eine gewisse Qualität garantieren, deshalb achte ich darauf, dass die Produkte mit dieser Zertifizierung ausgetsattet ist.
