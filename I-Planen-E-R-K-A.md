@@ -12,10 +12,13 @@ Ich habe auf meinem Whiteboard geschrieben was ich ungefähr benötige für die 
 
 ### Shop
 - Domain
+
 Ich brauche eine Domain, um meinen Shop aufrufen zu können.
 - Kundenrezension
+
 Das ist eine Fuktion des Shops, welche ich hinzufügen möchte. Somit kann ich an konstruktiver Kritik wachsen und der Shop wirkt seriöser.
 - Zahlungsmöglichkeiten
+
 Das ist elementar bei einem Shop, um überhaupt bestellen zu können. Deswegen werde ich das ebefalls hinzufügen, da es nicht automatisch generiert ist.
 
 ### Händler
