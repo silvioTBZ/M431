@@ -22,3 +22,9 @@ Das ist eine Fuktion des Shops, welche ich hinzufügen möchte. Somit kann ich a
 Das ist elementar bei einem Shop, um überhaupt bestellen zu können. Deswegen werde ich das ebefalls hinzufügen, da es nicht automatisch generiert ist.
 
 ### Händler
+- Bilder/Video
+
+Die Produkte des Händler sollen Videos oder zumindest Bilder haben für das Marketing.
+- Kompatibilität
+
+Der Händler soll in die Schweiz ausliefern können. Es existieren Händler, welche nur an Länder ausliefern, welche bie der EU sind.
