@@ -8,4 +8,7 @@ Bevor ich aber mit der eigentlichen planung beginne, fasse ich kurz zusammen, wa
 
 ![WhatsApp Image 2022-05-29 at 18 44 28 (1)](https://user-images.githubusercontent.com/90186208/170882575-5a30749b-d44b-4442-ba77-a5ee26fd1f2a.png)
 
-Ich habe auf meinem Whiteboard geschrieben was ich ungefähr benötige für die Umsetzung.
+Ich habe auf meinem Whiteboard geschrieben was ich ungefähr benötige für die Umsetzung. Ich werde es auflisten und kurz erläutern.
+
+### Shop
+
