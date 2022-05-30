@@ -24,4 +24,5 @@ Es ist eher eine art Anleitung, wie man Projekte angehen soll. Also lass uns dir
 
 - ["I", wie informieren](https://github.com/silvioTBZ/M431/blob/main/Informieren-P-E-R-K-A.md)
 - ["P", wie planen](https://github.com/silvioTBZ/M431/blob/main/I-Planen-E-R-K-A.md)
+- ["E", wie entscheiden](https://github.com/silvioTBZ/M431/files/8798115/I-P-Entscheiden-R-K-A.md)
 
