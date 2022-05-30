@@ -86,4 +86,6 @@ Somit haben wir einen 4-Schritte Plan für die realisierung unsers Shops. Ich we
 
 Wunderbar. Jetzt habe ich eine To-Do liste, welche ich abarbeiten kann. Als letzter Schritt, kommt die "Entscheidung". Dabei geht es darum, wie ich es umsetze. Für ein besseres Verständniss bringe ich folgendes Beispiel: Für den Shop brauche ich eine Domaine. Jetzt ist die Frage, wähle ich die von Shopify automatisch generierte Domain oder wähle ich eine von einem Anbieter. Dementsprechend geht es im nächsten Kapitel weiter.
 
-- [vorheriges Kapitel](https://github.com/silvioTBZ/M431/blob/main/Informieren-P-E-R-K-A.md)
+---
+
+### [vorheriges Kapitel](https://github.com/silvioTBZ/M431/blob/main/Informieren-P-E-R-K-A.md)
