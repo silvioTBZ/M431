@@ -7,7 +7,7 @@ Um Dropshipping zu betreiben benötige ich eine Platform. Im ersten Kapitel habe
 
 Ich musste lange grübeln, da es nicht einfach ist, sich einen Namen und die Richtung wohin es gehen soll zu wählen. Aber nach einer Zeit Brainstorming und gedankenversunkenen Gesichtsausdrücke wärend des Trainings, bin ich auf folgenden entschluss gekommen.
 
-#### ALOA selfcare
+##### ALOA selfcare
 
 Bei ALOA seflcare werden Produkte rund um Lifestyle und Selbsterhaltung verkauft. Das Design soll modern und minimalistisch sein, da es eine bestimmte esthetik hat.
 
