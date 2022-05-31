@@ -9,5 +9,4 @@ Ich musste lange grübeln, da es nicht einfach ist, sich einen Namen und die Ric
 
 ##### ALOA selfcare
 
-Bei ALOA seflcare werden Produkte rund um Lifestyle und Selbsterhaltung verkauft. Das Design soll modern und minimalistisch sein, da es eine bestimmte esthetik hat.
-
+Bei ALOA seflcare werden Produkte rund um Lifestyle und Selbsterhaltung verkauft. Das Design soll modern und minimalistisch sein, da es eine bestimmte esthetik hat. Es soll praktische und angenehme Tools und Produkte anbieten, welche das Haushaltsleben vereinfachen oder beschmücken. Das ist der Name und das Konzept von ALOA selfcare. Ob ich das "selfcare" weg nehem, muss ich noch überdenken, da ich ohne das zweite Wort flexibler wäre.
