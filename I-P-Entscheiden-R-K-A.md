@@ -13,4 +13,8 @@ Bei ALOA seflcare werden Produkte rund um Lifestyle und Selbsterhaltung verkauft
 
 ### Domain
 
-Dementsprechen benötige ich eine Domain. Da ich nicht die automatisch generierte Domain von Shopify nehmen möchte, nehme ich eine von einem externen Anbieter.
+Dementsprechen benötige ich eine Domain. Da ich nicht die automatisch generierte Domain von Shopify nehmen möchte, nehme ich eine von einem externen Anbieter. Ich habe mich für die Platform "Namecheap" entschieden, da meine gewünschte Domain hier günstiger ist. Dazu kann ich noch spezielle "Services" wählen, wie zum Beispiel dass die Domain SSL geschützt ist.
+
+![namecheap](https://user-images.githubusercontent.com/90186208/171422499-cae59511-60ed-4f2e-bcab-c9b8f9e79692.png)
+
+Somit habe ich eine Domain und Platform, von der ich es beziehen kann. Jetzt kommt der nächste Schritt.
