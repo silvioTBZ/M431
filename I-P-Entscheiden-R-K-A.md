@@ -25,4 +25,9 @@ Wenn man auf meinem Shop etws bestellen möchte, muss man auch die Möglichkeit 
 
 Dazu benötige ich ein Zahlungskonto, worauf die Zahlungen kommen. Dafür nehme ebenfalls ich Paypal.
 
-### 
+### Kurs wählen
+
+Es gibt viele Kurse für Dropshipping auf dem Markt. Deswegen werde ich diese filtern müssen. Mir ist es wichtig, dass der Kurs auch für Dropshipping von und inder der Schweiz aus kompatibel ist. Man muss ja auch auf paar rechtliche Dinge achten, welche in der Schweiz wichtig sind. Die meisten Kurse sind eben für EU-Länder oder andere Kontinente konzepiert. Deswegen schaue ich nur auf schweizer Dropshipping-Kurse.
+
+Dabei ist das Sortiment leider nicht all zu gross. Ich konnt bis jetzt zwei finden.
+
