@@ -35,7 +35,7 @@ Dabei ist das Sortiment leider nicht all zu gross. Ich konnt bis jetzt zwei find
 
 ![Screenshot 2022-06-02 090120](https://user-images.githubusercontent.com/90186208/171572802-6a2f4a80-846b-4c99-b78f-f3d295a52bc1.png)
 
-#### Jan Kläui - Preis
+#### Jan Kläui - Preis: 297EUR
 
 ![Screenshot 2022-06-02 090235](https://user-images.githubusercontent.com/90186208/171572855-7f1c5ca7-0414-4a04-b4f6-a08453ae51fa.png)
 
