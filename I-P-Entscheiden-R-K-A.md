@@ -29,5 +29,17 @@ Dazu benötige ich ein Zahlungskonto, worauf die Zahlungen kommen. Dafür nehme 
 
 Es gibt viele Kurse für Dropshipping auf dem Markt. Deswegen werde ich diese filtern müssen. Mir ist es wichtig, dass der Kurs auch für Dropshipping von und inder der Schweiz aus kompatibel ist. Man muss ja auch auf paar rechtliche Dinge achten, welche in der Schweiz wichtig sind. Die meisten Kurse sind eben für EU-Länder oder andere Kontinente konzepiert. Deswegen schaue ich nur auf schweizer Dropshipping-Kurse.
 
-Dabei ist das Sortiment leider nicht all zu gross. Ich konnt bis jetzt zwei finden.
+Dabei ist das Sortiment leider nicht all zu gross. Ich konnt bis jetzt zwei finden. Der erste von Marko Stany und der zweite von an Kläui
+
+#### Marko Stany:
+
+![Screenshot 2022-06-02 090120](https://user-images.githubusercontent.com/90186208/171572802-6a2f4a80-846b-4c99-b78f-f3d295a52bc1.png)
+
+#### Jan Kläui:
+
+![Screenshot 2022-06-02 090235](https://user-images.githubusercontent.com/90186208/171572855-7f1c5ca7-0414-4a04-b4f6-a08453ae51fa.png)
+
+
+
+
 
