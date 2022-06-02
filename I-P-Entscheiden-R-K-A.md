@@ -18,3 +18,9 @@ Dementsprechen benötige ich eine Domain. Da ich nicht die automatisch generiert
 ![namecheap](https://user-images.githubusercontent.com/90186208/171422499-cae59511-60ed-4f2e-bcab-c9b8f9e79692.png)
 
 Somit habe ich eine Domain und Platform, von der ich es beziehen kann. Jetzt kommt der nächste Schritt.
+
+### Zahlungsfunktion
+
+Wenn man auf meinem Shop etws bestellen möchte, muss man auch die Möglichkeit haben dafür zu zahlen. Deswegen entscheide ich mich hier für eine Zahlungsfunktion. Nach ein bisschen Recherche bin ich auf PayPal gekommen. Ich möchte dazu, dass man die Möglichkeit haben, dass man mit Visa und Kreditkarte zahlen kann. Ich entscheide mich für diese drei, da sie am weitverbreitestend sind.
+
+Dazu benötige ich ein Zahlungskonto, worauf die Zahlungen kommen. Dafür nehme ebenfalls ich Paypal-.
