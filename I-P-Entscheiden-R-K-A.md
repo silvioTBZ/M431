@@ -31,11 +31,11 @@ Es gibt viele Kurse für Dropshipping auf dem Markt. Deswegen werde ich diese fi
 
 Dabei ist das Sortiment leider nicht all zu gross. Ich konnt bis jetzt zwei finden. Der erste von Marko Stany und der zweite von an Kläui
 
-#### Marko Stany:
+#### Marko Stany - Preis: 790.00EUR
 
 ![Screenshot 2022-06-02 090120](https://user-images.githubusercontent.com/90186208/171572802-6a2f4a80-846b-4c99-b78f-f3d295a52bc1.png)
 
-#### Jan Kläui - Preis: 297EUR
+#### Jan Kläui - Preis: 297.00EUR
 
 ![Screenshot 2022-06-02 090235](https://user-images.githubusercontent.com/90186208/171572855-7f1c5ca7-0414-4a04-b4f6-a08453ae51fa.png)
 
