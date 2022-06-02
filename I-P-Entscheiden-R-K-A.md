@@ -39,7 +39,7 @@ Dabei ist das Sortiment leider nicht all zu gross. Ich konnt bis jetzt zwei find
 
 ![Screenshot 2022-06-02 090235](https://user-images.githubusercontent.com/90186208/171572855-7f1c5ca7-0414-4a04-b4f6-a08453ae51fa.png)
 
+Die Preise für solche Kurse sind meistens hoch. Da ich aber keine Lust habe mehr als mein Monateinkommen auszugeben, habe ich schliesslich den Krus von Jan Kläui gewählt und werde den auch absolvieren.
 
-
-
+###
 
