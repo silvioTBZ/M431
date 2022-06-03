@@ -75,9 +75,9 @@ Somit haben wir einen 4-Schritte Plan für die realisierung unsers Shops. Ich we
 - Shopseite erstellen
 - Domaine auswählen
 - Zahlungsfunktion hinzufügen
+- Kurs für DS belegen
 - Produkt wählen
 - Händler aussuchen
-- Kurs für DS belegen
 - Gewerbe anmelden
 - AGB's und Impressum addieren
 - Shop launchen
