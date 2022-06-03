@@ -45,3 +45,6 @@ Die Preise für solche Kurse sind meistens hoch. Da ich aber keine Lust habe meh
 
 
 
+---
+### [vorheriges Kapitel](https://github.com/silvioTBZ/M431/blob/main/I-Planen-E-R-K-A.md)
+### [nächstes Kapitel](https://github.com/silvioTBZ/M431/blob/main/I-P-E-Realisieren-K-A.md)
