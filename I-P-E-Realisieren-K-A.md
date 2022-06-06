@@ -8,4 +8,16 @@ Das ist wohl der wichtigste Teil dieses Project. Hier wird die ganze Vobereitung
 
 ### Shopify-konto herstellen
 
-Die Webseite muss gehostet werden. Da Shopify das anbietet, kann man das in Form von einem Shopify-Plan machen. Dazu nehme ich den günstigsten Plan.
+Als erstes braucht man ein Shopify-konto erstellen, um einen Shop erstellen zu müssen. Bei Shopify kann man sein Konto und Shop im gleichen Verfahren erstellen, was das Verfahren verschnellt.
+
+![Screenshot 2022-06-06 102552](https://user-images.githubusercontent.com/90186208/172124416-7c5dbfca-9f09-4fa8-9596-d5db9c83f8a8.png)
+
+### Plan wählne
+
+Für unseren Shop benötigen wir eine Webseite, Domaine und sie muss gehostet werden. Das alles kann man auf Shopify machen, allerdings ist es kostenpflichtig und es gibt verschiedene "Pläne". Ich wähle den günstigten Plan, da es für dieses Project volkommen ausreicht. 
+
+![Screenshot 2022-06-06 103129](https://user-images.githubusercontent.com/90186208/172125361-16971d86-b857-4253-addb-2c7d3f61f967.png)
+
+### Domain einbinden
+
+
