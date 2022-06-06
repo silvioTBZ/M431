@@ -29,3 +29,15 @@ Dabei habe ich zusätzlich "Premium DNS" und "SSL" hinzugefügt beim Kauf der Do
 ![dmnanlt](https://user-images.githubusercontent.com/90186208/172129840-3d828955-bb79-4595-93d0-00c8e891a3f4.png)
 
 Um die Domain einzubinden muss man jetzt als erstes auf der Startseite unten links auf "Startseite" klicken. Danach klickt man auf "Domain". Bei Bereich "Domain" steht dann "Bestehende Domain hinzufügen". Man klickt dann darauf, gibt die gemietete Domain ein und klickt auf "Verbindung überprüfen". Danach soll die Webseite mit dieser Domain aufrufbar sein.
+
+### Shop Design
+
+Ich werde das nachdem Kurs erledigen, da ich den Shop an das Produkt anpassen muss.
+
+### Kursbeginn
+
+Jetzt kommt der Dropshipping-kurs, wofür ich mich entschieden habe. Da sollte ich ausreichend für das Dropshipping vorbereitet und geschult werden. Ich werde nicht alles einzelne Detail vom Kurs hier erläutern können, da viel Theorie auf mich wartet. Ich werde für den Beginn mich einfach darin wagen und dann mitteilen, ob es mir was genützt hat.
+
+![Screenshot 2022-06-06 113646](https://user-images.githubusercontent.com/90186208/172136089-99a76fe0-d910-4a9b-827c-6c56fd05b77d.png)
+
+
