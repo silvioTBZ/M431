@@ -20,4 +20,6 @@ Für unseren Shop benötigen wir eine Webseite, Domaine und sie muss gehostet we
 
 ### Domain einbinden
 
+Wie im vorherigen Kapitel werde ich die Domain über Namecheap kaufen. Dabei kann man nocj zusätzliche Dienste hinzufügen.
 
+![Screenshot 2022-06-06 103751](https://user-images.githubusercontent.com/90186208/172126567-fab6f453-af51-4409-b621-f54e2050a3bc.png)
