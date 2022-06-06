@@ -28,4 +28,4 @@ Dabei habe ich zusätzlich "Premium DNS" und "SSL" hinzugefügt beim Kauf der Do
 
 ![dmnanlt](https://user-images.githubusercontent.com/90186208/172129840-3d828955-bb79-4595-93d0-00c8e891a3f4.png)
 
-
+Um die Domain einzubinden muss man jetzt als erstes auf der Startseite unten links auf "Startseite" klicken. Danach klickt man auf "Domain". Bei Bereich "Domain" steht dann "Bestehende Domain hinzufügen". Man klickt dann darauf, gibt die gemietete Domain ein und klickt auf "Verbindung überprüfen". Danach soll die Webseite mit dieser Domain aufrufbar sein.
