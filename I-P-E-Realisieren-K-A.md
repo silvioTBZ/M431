@@ -23,3 +23,9 @@ Für unseren Shop benötigen wir eine Webseite, Domaine und sie muss gehostet we
 Wie im vorherigen Kapitel werde ich die Domain über Namecheap kaufen. Dabei kann man nocj zusätzliche Dienste hinzufügen.
 
 ![Screenshot 2022-06-06 104023](https://user-images.githubusercontent.com/90186208/172126880-4791c9ef-7305-46a3-93fa-019f9903d555.png)
+
+Dabei habe ich zusätzlich "Premium DNS" und "SSL" hinzugefügt beim Kauf der Domain. Das Premium DNS ahbe ich gewählt, damit das aufrufen viel schneller geht und das SSL für Sicherheit. Es soll auch authetnisch wirken. SSL oder TSL ist beinahe schon ein Standart. Etwas was man unbedingt haben sollte, das sonst dem Besucher eine Warnung mitgeteilt wird, das die Seite nicht sicher ist. Deswegen habe ich beide Funktionen dazu gehollt.
+
+![dmnanlt](https://user-images.githubusercontent.com/90186208/172129840-3d828955-bb79-4595-93d0-00c8e891a3f4.png)
+
+
