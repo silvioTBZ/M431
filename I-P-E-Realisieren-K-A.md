@@ -40,4 +40,8 @@ Jetzt kommt der Dropshipping-kurs, wofür ich mich entschieden habe. Da sollte i
 
 ![Screenshot 2022-06-06 113646](https://user-images.githubusercontent.com/90186208/172136089-99a76fe0-d910-4a9b-827c-6c56fd05b77d.png)
 
+---
+
+### ["E", wie entscheiden](https://github.com/silvioTBZ/M431/blob/main/I-P-Entscheiden-R-K-A.md)
+
 
