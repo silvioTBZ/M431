@@ -43,7 +43,23 @@ Die Preise für solche Kurse sind meistens hoch. Da ich aber keine Lust habe meh
 
 ### Produkt
 
+Das werde ich erst ab dem Punkt "Realisieren" entscheiden können, da es ein Teil des Kurses ist, welche ich belegen werde. Es gibt eine Rubrik im Kurs, worum es um "Product-research" geht. Jedoch habe ich bereits ein Idee in welche richtung es gehen soll. Gadgets für den Alltag oder Badezimmer.
 
+### Händler aussuchen
+
+Das wird entwschieden, indem ich das Produkt gewählt habe. Falls es verscheidene anbieter für ein ähnliches Produkt gibt, ist man schon flexibler. Das ist aber eher etwas automatische, als das man so entscheiden könnte. Man kan dem Händler kontaktieren, dabei besteht aber auch Gefahr, dass man möglicherwiese ein anderes Produkt wählen muss.
+
+### Gewerbe anmelden
+
+Es gitb verscheiden Rechtsformen, um eine Firma anzumelden. Ich werde eine Einzelfirma anmelden, da es Kapital benötigt eines anzumelden. Der Nachteil ist, dass man da mit dem Pirvatvermögen haftet und der Familienname im Unternehemen lesbar sein muss. Man kann es aber immernoch ändern. Aber fürs erste soll eine Einzelfirma ausreichen.
+
+### AGB's Impressum addieren
+
+Dazu gibt es Vorlagen im Kurs und werde sie hier nicht weiter erläutern.
+
+### Schlusswort
+
+Ich werde die letzten Punkte hier nicht erläutern, da sie optional sind. Für dieses PRoject verusche ich das nötigste rein zu packen. Manche Sachen kann ich leider erst bei der realisierung entscheiden, da es sich mit anderen Punkten ergäntzt. Das sollte aber kein weiteres Problem sein, da es erklärt wurde und die meissten Punkte hier schon entschieden werden konnten. Jetzt geht es weiter zur realisierung.
 
 ---
 ### [vorheriges Kapitel](https://github.com/silvioTBZ/M431/blob/main/I-Planen-E-R-K-A.md)

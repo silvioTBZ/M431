@@ -70,10 +70,11 @@ Somit haben wir einen 4-Schritte Plan für die realisierung unsers Shops. Ich we
 
 ## Plan zusammenfassung
 
+- Dropshipping Platform wählen
 - Shopname finden
 - Shopkonzept finden
-- Shopseite erstellen
 - Domaine auswählen
+- Shopseite erstellen
 - Zahlungsfunktion hinzufügen
 - Kurs für DS belegen
 - Produkt wählen
