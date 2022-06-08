@@ -42,6 +42,6 @@ Jetzt kommt der Dropshipping-kurs, wofür ich mich entschieden habe. Da sollte i
 
 ---
 
-### ["E", wie entscheiden](https://github.com/silvioTBZ/M431/blob/main/I-P-Entscheiden-R-K-A.md)
+### [vorheriges Kapitel](https://github.com/silvioTBZ/M431/blob/main/I-P-Entscheiden-R-K-A.md)
 
 
