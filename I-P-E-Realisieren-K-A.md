@@ -43,5 +43,6 @@ Jetzt kommt der Dropshipping-kurs, wofür ich mich entschieden habe. Da sollte i
 ---
 
 ### [vorheriges Kapitel](https://github.com/silvioTBZ/M431/blob/main/I-P-Entscheiden-R-K-A.md)
+### [nächstes Kapitel](https://github.com/silvioTBZ/M431/blob/main/I-P-E-R-Kontrollieren-A.md)
 
 
