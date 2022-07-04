@@ -17,6 +17,8 @@ E-Commerce wird auch als elektronischer Handel bezeichnet. Wie der Name deuten l
 ## Dropshipping Platformen; Wix vs. Shopify
 Als erstes wähle ich zwei Plattformen aus, um meinen Onlinehsop aufzubauen. Dafür habe ich mir zwei der bekanntesten Plattformen ausgesucht:
 
+![Screenshot 2022-07-04 151032](https://user-images.githubusercontent.com/90186208/177163806-ab5f859f-6cd3-440f-be72-f45f60196e2c.png)
+
 - Wix
 - Shopify
 
