@@ -40,6 +40,9 @@ Jetzt kommt der Dropshipping-kurs, wofür ich mich entschieden habe. Da sollte i
 
 ![Screenshot 2022-06-06 113646](https://user-images.githubusercontent.com/90186208/172136089-99a76fe0-d910-4a9b-827c-6c56fd05b77d.png)
 
+### Änderung des Ziellandes
+Beim Verfolgen des Kurses wollte ich die Domain wechseln. Ich wollte zu ".ch" wechslen, da ich in der Schweiz verkaufen möchte. Da aber Shopify scheinbar keine ".ch" unterstützt, musste ich bei ".com" bleiben. Dabei ändere ich nur das Zielland. Ich werde in den USA verkaufen, da isch dafür keine oss-nummer beantragen muss.
+
 ---
 
 ### [vorheriges Kapitel](https://github.com/silvioTBZ/M431/blob/main/I-P-Entscheiden-R-K-A.md)
