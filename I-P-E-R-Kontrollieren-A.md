@@ -3,19 +3,19 @@ Bei dem umsetzen meines Planes, soll auch regelmässig kontrolliert werden, ob a
 
 ## Kontrollierung
 
-| Aufgaben         | erldeigt | nicht erledigt | Kommentar | 
-| -------------- | - | - | - | 
-| Dropshipping Platform wählen   | X  |   |   | 
-| Shopname finden  |   |   |   |  
-| Shopkonzept finden  |   |   |   |   
-| Domaine auswählen |   |   |   |  
-| Shopseite erstellen |   |   |   |  
-| Zahlungsfunktion hinzufügen |   |   |   |  
-| Kurs für DS belegen |   |   |   |  
-| Produkt wählen |   |   |   |  
-| Händler aussuchen |   |   |   |  
-| Gewerbe anmelden |   |   |   |  
-| AGB's und Impressum addieren |   |   |   |  
-| Shop launchen |   |   |   |  
-| Nach 3 ställigen Gewinn, Einnahemn versteuern |   |   |   |  
-| Marketing betreiben |   |   |   |  
+| Aufgaben         | erldeigt |  Kommentar | 
+| -------------- | - | - |
+| Dropshipping Platform wählen   | X  |   |  
+| Shopname finden  |   |   |    
+| Shopkonzept finden  |   |   |   
+| Domaine auswählen |   |   |   
+| Shopseite erstellen |   |   |  
+| Zahlungsfunktion hinzufügen |   |   |   
+| Kurs für DS belegen |   |   |   
+| Produkt wählen |   |   |   
+| Händler aussuchen |   |   |   
+| Gewerbe anmelden |   |   |   
+| AGB's und Impressum addieren |   |   |   
+| Shop launchen |   |   |   
+| Nach 3 ställigen Gewinn, Einnahemn versteuern |   |   |   
+| Marketing betreiben |   |   |   
