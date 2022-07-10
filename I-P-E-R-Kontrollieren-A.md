@@ -5,8 +5,17 @@ Bei dem umsetzen meines Planes, soll auch regelmässig kontrolliert werden, ob a
 
 | Aufgaben         | erldeigt | nicht erledigt | Kommentar | 
 | -------------- | - | - | - | 
-| Gundolf Berg   |   |   |   | 
-| Kirsten Weber  |   |   |   |  
-| Lutz Hartmann  |   |   |   |   
-| Andrej Ubuchev |   |   |   |  
-| Josea Kaußen   |   |   |   |  
+| Dropshipping Platform wählen   |   |   |   | 
+| Shopname finden  |   |   |   |  
+| Shopkonzept finden  |   |   |   |   
+| Domaine auswählen |   |   |   |  
+| Shopseite erstellen |   |   |   |  
+| Zahlungsfunktion hinzufügen |   |   |   |  
+| Kurs für DS belegen |   |   |   |  
+| Produkt wählen |   |   |   |  
+| Händler aussuchen |   |   |   |  
+| Gewerbe anmelden |   |   |   |  
+| AGB's und Impressum addieren |   |   |   |  
+| Shop launchen |   |   |   |  
+| Nach 3 ställigen Gewinn, Einnahemn versteuern |   |   |   |  
+| Marketing betreiben |   |   |   |  
