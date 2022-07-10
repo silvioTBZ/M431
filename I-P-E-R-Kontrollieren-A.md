@@ -5,7 +5,7 @@ Bei dem umsetzen meines Planes, soll auch regelmässig kontrolliert werden, ob a
 
 | Aufgaben         | erldeigt | nicht erledigt | Kommentar | 
 | -------------- | - | - | - | 
-| Dropshipping Platform wählen   |   |   |   | 
+| Dropshipping Platform wählen   | X  |   |   | 
 | Shopname finden  |   |   |   |  
 | Shopkonzept finden  |   |   |   |   
 | Domaine auswählen |   |   |   |  
