@@ -43,6 +43,13 @@ Jetzt kommt der Dropshipping-kurs, wofür ich mich entschieden habe. Da sollte i
 ### Änderung des Ziellandes
 Beim Verfolgen des Kurses wollte ich die Domain wechseln. Ich wollte zu ".ch" wechslen, da ich in der Schweiz verkaufen möchte. Da aber Shopify scheinbar keine ".ch" unterstützt, musste ich bei ".com" bleiben. Dabei ändere ich nur das Zielland. Ich werde in den USA verkaufen, da isch dafür keine oss-nummer beantragen muss.
 
+### Logo
+Eigentlich wollte ich darauf verzichten, da es für dieses Projekt zweitrangig ist. Weil ich aber nicht dazu gekommen bin alle Schritte meines Planes umzustetzen, habe ich mich dazu entschieden, dass ich wenigstens noch das Logo mache. Dies habe ich mit Paint.net erstellt. Die Illustration habe ich ausder Website Canva.
+
+![LOGO](https://user-images.githubusercontent.com/90186208/178158822-e3e3c33a-ba50-4f2a-98d3-632089290760.png)
+
+Es ist eine Art Entwurf und wird noch nicht das Endergebniss sein.
+
 ---
 
 ### [vorheriges Kapitel](https://github.com/silvioTBZ/M431/blob/main/I-P-Entscheiden-R-K-A.md)
