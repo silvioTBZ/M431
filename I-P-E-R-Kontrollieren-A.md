@@ -5,17 +5,17 @@ Bei dem umsetzen meines Planes, soll auch regelmässig kontrolliert werden, ob a
 
 | Aufgaben         | erldeigt |  Kommentar | 
 | -------------- | - | - |
-| Dropshipping Platform wählen   | X  |   |  
-| Shopname finden  |   |   |    
-| Shopkonzept finden  |   |   |   
-| Domaine auswählen |   |   |   
-| Shopseite erstellen |   |   |  
-| Zahlungsfunktion hinzufügen |   |   |   
-| Kurs für DS belegen |   |   |   
-| Produkt wählen |   |   |   
-| Händler aussuchen |   |   |   
-| Gewerbe anmelden |   |   |   
-| AGB's und Impressum addieren |   |   |   
-| Shop launchen |   |   |   
-| Nach 3 ställigen Gewinn, Einnahemn versteuern |   |   |   
-| Marketing betreiben |   |   |   
+| Dropshipping Platform wählen   | JA  |   |  
+| Shopname finden  | JA  |   |    
+| Shopkonzept finden  | JA  |   |   
+| Domaine auswählen | JA  |   |   
+| Shopseite erstellen | JA  |   |  
+| Zahlungsfunktion hinzufügen | NEIN  |   |   
+| Kurs für DS belegen | JA  |   |   
+| Produkt wählen | JA  |   |   
+| Händler aussuchen | NEIN  |   |   
+| Gewerbe anmelden | NEIN  |   |   
+| AGB's und Impressum addieren |NEIN   |   |   
+| Shop launchen |NEIN   |   |   
+| Nach 3 ställigen Gewinn, Einnahemn versteuern |NEIN   |   |   
+| Marketing betreiben |NEIN   |   |   
