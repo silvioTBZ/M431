@@ -4,6 +4,7 @@ Bei dem umsetzen meines Planes, soll auch regelmässig kontrolliert werden, ob a
 ## Kontrollierung
 
 | Aufgaben         | erldeigt | nicht erledigt | Kommentar | 
+| -------------- | - | - | - | - | - | - | - | - | -- | -- | -- | -- | --
 | Gundolf Berg   |   |   |   | 
 | Kirsten Weber  |   |   |   |  
 | Lutz Hartmann  |   |   |   |   
