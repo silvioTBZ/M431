@@ -58,4 +58,5 @@ Somit ist es nicht richtig terminiert.
 
 ---
 ### [vorheriges Kapitel](https://github.com/silvioTBZ/M431/blob/main/I-P-E-Realisieren-K-A.md)
-### [nächstes Kapitel](https://github.com/silvioTBZ/M431/blob/main/I-P-E-R-K-Auswerten.md)
+### [nächstes Kapitel](https://github.com/silvioTBZ/M431/blob/main/I-P-E-R-K-Auswerten.MD)
+
