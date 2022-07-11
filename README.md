@@ -19,6 +19,12 @@ Also, fangen wir mal mit den ersten schritten nüchtern an, bevor es an das eing
 
 Es ist eher eine art Anleitung, wie man Projekte angehen soll. Also lass uns direkt mit dem ersten Schritt anfangen. Weiter geht es im nöchsten Kapitel.
 
+### PowerPoint Präsentation
+
+Anbei ist hier der Downloadlink zu meiner Präsentation:
+[M431_Pantea.pptx](https://github.com/silvioTBZ/M431/files/9082305/M431_Pantea.pptx)
+
+
 ## Alle Kapitel:
 
 
