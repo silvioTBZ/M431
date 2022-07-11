@@ -27,3 +27,4 @@ Es ist eher eine art Anleitung, wie man Projekte angehen soll. Also lass uns dir
 - ["E", wie entscheiden](https://github.com/silvioTBZ/M431/blob/main/I-P-Entscheiden-R-K-A.md)
 - ["R", wie realisieren](https://github.com/silvioTBZ/M431/blob/main/I-P-E-Realisieren-K-A.md)
 - ["K", wie kontrollieren](https://github.com/silvioTBZ/M431/blob/main/I-P-E-R-Kontrollieren-A.md)
+- ["A", wie auswerten](https://github.com/silvioTBZ/M431/blob/main/I-P-E-R-K-Auswerten.MD)
