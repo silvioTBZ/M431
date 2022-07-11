@@ -19,3 +19,39 @@ Bei dem umsetzen meines Planes, soll auch regelmässig kontrolliert werden, ob a
 | Shop launchen |NEIN   |Nicht mehr möglich, da das abgelaufen ist   |   
 | Nach 3 ställigen Gewinn, Einnahemn versteuern |NEIN   |Noch nciht dazu gekommen, da der Shop nicht glauncht wurde   |   
 | Marketing betreiben |NEIN   |Nicht dazu gekommen, da der Shop nicht gelauncht wurde   |   
+
+## Waren die Zwischentermine SMART?
+
+Ich habe bei der Planung eine ToDo-Liste erstellt, dabei gab es einzelne Punkte mit einer "Deadline", welche im Projektauftrag definiert wurden. Jetzt geht es darum, ob die dort eingetragene Ziele SMART waren.
+
+![Screenshot 2022-07-11 063307](https://user-images.githubusercontent.com/90186208/178189146-5607d0a9-af42-4aa8-b683-94dfeace51e0.png)
+
+### S; Spezifisch
+
+Es gibt konkrete Termine, die bis zur einer gewissen Zeit, erledigt werden soll. Es war nicht all zu präzisse, aber es war -zumindest für mich- klar, was ab welchem Zeitpunkt erledigt werden soll.
+
+Somit ist es knapp ungenügend spezifisch.
+
+### M; Messbar
+
+Ich habe eine Zeit bei den Zwischenziele gesetzt, wann Sie spätestens erledigt werden sollen. Die Ziele sind im Projektauftrag nicht viel zu allgemein. Dafür ist Sie in der Kategorie Planung präziser.
+
+Somit ist es hier nicht genau messbar.
+
+### A; Attraktiv
+
+Mich interessiert diese Thema sehr und bin bei dem Projekt bis zu einem gewissen Punkt sehr ergeizig gewesen. Ich konnte es zwar leider nicht zu ende bringe, jedoch wären die Umstände anders fewesen, hätte ich mit grosser Freude dies zu Ende gebracht.
+
+Somit ist das Thema für mich sehr attraktiv
+
+### R; Realistisch
+
+Es ist ein Thema mit relativ hohen Zielen. Es ist im grunde kein leichtes, dies zu bewältigen. Im grunde ist es nicht schwer. Es ist wie beim Programmieren. Ein Hello World Programm kann jeder aber ein komplexeres Programm braucht mehr fleiss und Zeit. Jedoch ist es mit der richtigen Planung möglich.
+
+Somit ist es knapp realistisch.
+
+###
+
+Bei den Zwieschenzielen im Projektauftrag habe ich ein Datum definiert, indem es spätestesn erledigt sein soll. Leider ist dies nicht richtig messbar, da die vielen Aufgaben in der Dokumentation sind und kein Datum haben. Im Projektauftrag hat man zwar ein Datum aber die Ziele sind zu unpräzise.
+
+Somit ist es nicht richtig terminiert.
