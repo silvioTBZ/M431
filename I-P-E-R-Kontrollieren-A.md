@@ -5,17 +5,17 @@ Bei dem umsetzen meines Planes, soll auch regelmässig kontrolliert werden, ob a
 
 | Aufgaben         | erldeigt |  Kommentar | 
 | -------------- | - | - |
-| Dropshipping Platform wählen   | JA  |   |  
-| Shopname finden  | JA  |   |    
-| Shopkonzept finden  | JA  |   |   
-| Domaine auswählen | JA  |   |   
-| Shopseite erstellen | JA  |   |  
-| Zahlungsfunktion hinzufügen | NEIN  |   |   
-| Kurs für DS belegen | JA  |   |   
-| Produkt wählen | JA  |   |   
-| Händler aussuchen | NEIN  |   |   
-| Gewerbe anmelden | NEIN  |   |   
-| AGB's und Impressum addieren |NEIN   |   |   
-| Shop launchen |NEIN   |   |   
-| Nach 3 ställigen Gewinn, Einnahemn versteuern |NEIN   |   |   
-| Marketing betreiben |NEIN   |   |   
+| Dropshipping Platform wählen   | JA  |Dafür wurde SHopify genutzt   |  
+| Shopname finden  | JA  |Der Store heisst "ALOA Selfcare   |    
+| Shopkonzept finden  | JA  |Produkte im Bereich des BAdezimmer   |   
+| Domaine auswählen | JA  | Die Domäne ähnelt sich mit dem Namen. "www.aloa-slefcare.com"   |   
+| Shopseite erstellen | JA  |Sie ist zwar noch nicht vollständig, allerdings existiert bereits eine Shopseite.  |  
+| Zahlungsfunktion hinzufügen | NEIN  |Leider noch nciht so weit gekommen, da das Abo abgelaufen ist   |   
+| Kurs für DS belegen | JA  |Kurs von Jan Kläui   |   
+| Produkt wählen | JA  |Einen Ice-Macher  gefunden,welcher Kugeln macht |   
+| Händler aussuchen | NEIN  | Es ist kein richtigewr händler, es ist eher eine Plattform; "Upforge"   |   
+| Gewerbe anmelden | NEIN  |Nicht dazu gekommen, da ich nicht mal meinen Shop fertig stellen konnte   |   
+| AGB's und Impressum addieren |NEIN   |Nicht bis dahin angelangt, da der Shop noch nciht soweit ist   |   
+| Shop launchen |NEIN   |Nicht mehr möglich, da das abgelaufen ist   |   
+| Nach 3 ställigen Gewinn, Einnahemn versteuern |NEIN   |Noch nciht dazu gekommen, da der Shop nicht glauncht wurde   |   
+| Marketing betreiben |NEIN   |Nicht dazu gekommen, da der Shop nicht gelauncht wurde   |   
