@@ -50,7 +50,7 @@ Es ist ein Thema mit relativ hohen Zielen. Es ist im grunde kein leichtes, dies 
 
 Somit ist es knapp realistisch.
 
-###
+### T; Terminiert
 
 Bei den Zwieschenzielen im Projektauftrag habe ich ein Datum definiert, indem es spätestesn erledigt sein soll. Leider ist dies nicht richtig messbar, da die vielen Aufgaben in der Dokumentation sind und kein Datum haben. Im Projektauftrag hat man zwar ein Datum aber die Ziele sind zu unpräzise.
 
